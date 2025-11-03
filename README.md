@@ -1,11 +1,11 @@
-## Hi there 👋
+## 💫 About Me:
 
 <!--
 **Shrayanshi/Shrayanshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 Passionate computer science graduate from Bennett University with hands-on experience in full-stack development, AI-integrated systems, and scalable web architectures. Results-driven software engineer with over 2.5 years of industry experience in Fintech, Healthcare and Edtech domains with a strong foundation in data-driven product development, system design, and UI engineering. Skilled at bridging business needs with technology to deliver scalable, user-focused digital solutions. Experienced in developing AI-integrated and dynamic web applications from the ground up.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
