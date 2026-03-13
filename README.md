@@ -6,7 +6,7 @@
 
 ---
 💻 AI Assignment Builder
-Live: https://yourapp.vercel.app
+Live: https://ai-assignment-builder.vercel.app/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrayanshi-tomar)
