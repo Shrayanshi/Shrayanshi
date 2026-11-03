@@ -1,46 +1,25 @@
-## 💫 About Me:
-🔭 Passionate Computer Science graduate from **Bennett University**, with over **2.5 years of industry experience** in **Fintech, Healthcare, and EdTech** industries.  
-💻 Currently working as a **Software Engineer**, with prior experience at **SpiceJet Limited** and **Rapipay Fintech Pvt Ltd**.  
-⚙️ Skilled in **Full-Stack Development**, **AI-integrated systems**, and **scalable web architectures** — bridging business needs with technology to deliver user-focused digital products.  
-🚀 Experienced in building **data-driven**, **AI-powered**, and **high-performance** web applications from the ground up.
+# Hi, I'm Shrayanshi 👋
 
----
-💻 AI Assignment Builder
-Live: https://ai-assignment-builder.vercel.app/
+I'm a Master of Engineering Management student at Duke focused on product management. I started as a software engineer, which is why I like working close to the data and the people building the product.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrayanshi-tomar)
+## What I do
+- **Product work:** discovery interviews, requirements and PRDs, prioritization, and success metrics
+- **Domains:** fintech, healthtech, and AI products
+- **Background:** B.Tech in Computer Science, then product-facing roles at SpiceJet, Rapipay and Edpi Innovate
 
----
+## Projects I'm proud of
+**[Ask-Data: Trust-First Analytics Assistant](https://github.com/Shrayanshi/ask-data-trust-prototype)**
+Turns business questions into SQL using a governed semantic model, blocks PII and write queries, and declines questions it can't answer safely. A 38-question evaluation harness cut confident wrong answers from 79% to 5% against a keyword baseline. Includes a product teardown of Snowflake, Databricks and ThoughtSpot and a PRD.
 
-## 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+**[Phishing-Report Triage Assistant](https://github.com/Shrayanshi/phishing-triage-assistant)**
+A "report this email" tool that explains why a message looks suspicious, shows where links really go, and teaches the user what to look for next time. Never stores messages or opens links. Includes a PRD and a 44-message evaluation.
 
----
+Both use synthetic, author-written test sets, so the numbers show the evaluation method works, not that the results generalize.
 
-## 🏢 Professional Experience:
+## How I think about products
+- Measure trust and error cost, not only accuracy
+- Show the reasons behind an answer
+- Write down what the product gets wrong
 
-- 🧠 **Software Engineer — Edpi Innovate**  
-
-- 🧩 **UI Developer — SpiceJet Limited**  
-
-- 🎓 **Product Engineering Intern -> Software Engineer — Rapipay Fintech Pvt Ltd** 
-
----
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shrayanshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shrayanshi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrayanshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Connect
+[LinkedIn](https://linkedin.com/in/shrayanshi-tomar) · ss1830@duke.edu
